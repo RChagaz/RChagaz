@@ -2,7 +2,7 @@
 
 **`Eu não sou mais um dev!`**
 
-Meu nome é Rodrigo e eu costumava ser um desenvolvedor frontend, porém as circunstâncias me fizeram parar de programar, apenas faço trabalhos da facul aqui, me interesso por hacking, redes de computadores e pawgs se quiser puxar assunto sobre qualquer uns desses fique a vontade!
+Meu nome é Rodrigo e eu costumava ser um desenvolvedor frontend, porém as circunstâncias me fizeram parar de programar, apenas faço trabalhos da facul aqui, me interesso por hacking, redes de computadores e pawgs se quiser puxar assunto sobre qualquer um desses fique a vontade!
 
 ---
 
