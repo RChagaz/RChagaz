@@ -113,7 +113,7 @@ Meu nome é Rodrigo e eu costumava ser um desenvolvedor frontend, porém as circ
     title="???"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://magiskdeltazip.com/wp-content/uploads/2025/08/magisk-delta-zip-1.png" 
+    src="https://imageupload.app/i/f74d9cf7e16e563f7e43" 
 />
           
 
