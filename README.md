@@ -81,7 +81,39 @@ Meu nome é Rodrigo e eu costumava ser um desenvolvedor frontend, porém as circ
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MongoDB" 
+    title="MongoDB"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Vercel" 
+    title="Vercel"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vercel/vercel-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Mint" 
+    title="Mint"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linuxmint/linuxmint-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="???" 
+    title="???"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://magiskdeltazip.com/wp-content/uploads/2025/08/magisk-delta-zip-1.png" 
 />
           
 
