@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Rodrigo Chagas
+# 👨🏻‍💻 Rodrigo
 
 **`Eu não sou mais um dev!`**
 
@@ -75,7 +75,14 @@ Meu nome é Rodrigo e eu costumava ser um desenvolvedor frontend, porém as circ
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
+<img 
+    align="left" 
+    alt="Java" 
+    title="Java"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
+/>
           
 
 <br/>
