@@ -113,7 +113,7 @@ Meu nome é Rodrigo e eu costumava ser um desenvolvedor frontend, porém as circ
     title="???"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" 
+    src="https://github.com/AyuGram/AyuGramDesktop/blob/dev/.github/AyuChan.png" 
 />
           
 
