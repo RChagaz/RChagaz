@@ -113,7 +113,7 @@ Meu nome é Rodrigo e eu costumava ser um desenvolvedor frontend, porém as circ
     title="???"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://imageupload.app/i/f74d9cf7e16e563f7e43" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redhat/redhat-original.svg" 
 />
           
 
