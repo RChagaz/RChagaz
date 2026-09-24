@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Rodrigo Chagas
 
-**`Desenvolvedor FrontEnd`**
+**`Eu não sou mais um dev!`**
 
-Me chamo Rodrigo Chagas dos Santos, tenho 19 anos e sou natural da Bahia. Atualmente, estou cursando Sistemas de Informação na UniFTC - Itabuna/BA. Gosto de criar designs e desenvolver sites.
+Meu nome é Rodrigo e eu costumava ser um desenvolvedor frontend, porém as circunstâncias me fizeram parar de programar, apenas faço trabalhos da facul aqui, me interesso por hacking, redes de computadores e pawgs se quiser puxar assunto sobre qualquer uns desses fique a vontade!
 
 ---
 
@@ -76,37 +76,9 @@ Me chamo Rodrigo Chagas dos Santos, tenho 19 anos e sou natural da Bahia. Atualm
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="28px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
-/>
           
 
 <br/>
 <br/>
 
 
-
-### 📊 Estatísticas
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=rchagaz&show_icons=true&theme=radical&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=rchagaz&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
